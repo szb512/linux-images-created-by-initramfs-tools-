@@ -1,0 +1,1 @@
+# linux-images-created-by-initramfs-tools-
