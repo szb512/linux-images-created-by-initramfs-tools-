@@ -1,0 +1,2 @@
+These linux-images depend on:
+initramfs-tools 0.130 | dracut 
