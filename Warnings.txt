@@ -1,0 +1,1 @@
+Warning: If you are installing these images on a device, you should know that gzip and cp can handle only 1 image at a time, meaning the next time you install a different linux-image, you are more likely to experience errors.
